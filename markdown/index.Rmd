@@ -1,0 +1,130 @@
+---
+title: "Markdown"
+author: "Kevin Cazelles"
+date: "2019/04/03"
+output:
+  xaringan::moon_reader:
+    includes:
+      in_header: inSileco-header.html
+    lib_dir: assets
+    seal: false
+    css: ["default", "inSileco.css", "inSileco-fonts.css"]
+    nature:
+      beforeInit: "inSileco-macros.js"
+      highlightLines: false
+---
+
+```{r setup, echo = FALSE}
+knitr::opts_chunk$set(
+  comment = "#>>",
+  collapse = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  fig.width = 7,
+  fig.height = 5.25,
+  fig.align = 'center',
+  width = 120
+)
+mypar <- list(fg = "#303940", bg = "transparent", las = 1)
+```
+
+
+<br><br>
+
+.maintitle[Markdown]
+
+<br><br>
+
+.pull-left[
+##### <i class="fa fa-github" aria-hidden="true"></i> [McCannLab/Tutorials](https://github.com/McCannLab/Tutorials)
+##### <i class="fa fa-calendar" aria-hidden="true"></i> April 2nd, 2019
+##### <i class="fa fa-user" aria-hidden="true"></i>  [Kevin Cazelles](https://kevcaz.github.io/)
+]
+.pull-right[
+<br>
+<br>
+<br>
+.right[
+  ![:addlogo 57%]()
+  ]
+]
+
+
+
+
+
+
+
+---
+class: inverse, center, middle
+
+# What is it?
+
+
+
+---
+# Markdown
+
+
+> Markdown is a lightweight markup language with plain text formatting syntax. [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+
+
+2004 https://daringfireball.net/projects/markdown/
+
+
+
+---
+# Markdown
+
+> Markdown is intended to be as easy-to-read and easy-to-write as is feasible. [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+
+### `html`
+
+```html
+<a href="https://github.com/KevCaz/aboutRMarkdown">My repo</a>
+```
+
+### `markdown`
+
+```markdown
+[My repo](https://github.com/KevCaz/aboutRMarkdown)
+```
+
+
+---
+# Markdown
+
+### `html`
+
+```html
+<ol>
+  <li> items1 </li>
+  <li> items2 </li>
+  <li> items3 </li>
+</ol>
+```
+
+### `markdown`
+
+```markdown
+1. items1
+2. items2
+3. items3
+```
+
+
+---
+# Markdown *et al.*
+
+- [GitHub Flavored Markdown (GFM)](https://help.github.com/articles/github-flavored-markdown/)
+- [Kramdown](http://kramdown.gettalong.org/syntax.HTML#math-blocks)
+- [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)
+- [Multi Markdow](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#math-support)
+- [Pandoc Markdown](http://pandoc.org/README.HTML#pandocs-markdown)
+
+
+
+---
+# Everywhere
+
+https://insileco.github.io/2018/05/13/markdown-everywhere/
