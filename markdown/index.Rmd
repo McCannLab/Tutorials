@@ -170,7 +170,12 @@ class: inverse, center, middle
 <br>
 
 - [A couple of thoughts here](https://insileco.github.io/2018/05/13/markdown-everywhere/)
-- Your repos' Readme in github
+- ![:scale 4%](img/Markdown-mark.svg) <i class="fa fa-arrow-right" aria-hidden="true"></i> <i class="fa fa-refresh" aria-hidden="true"></i> <i class="fa fa-arrow-right" aria-hidden="true"></i> `.html` / `.docx` / `.pdf`
+
+--
+
+- [Modern Scientific Authoring](http://swcarpentry.github.io/modern-scientific-authoring/)
+- Your repos' Readme in GitHub
 - [markdown-here](https://markdown-here.com/)
 - [Rmarkdown](https://rmarkdown.rstudio.com/)
 
@@ -208,18 +213,18 @@ class: inverse, center, middle
 # Websites
 <br>
 
-### Most frameworks integrate Markdown for content edition
+#### Most frameworks integrate Markdown for content edition
 
 
 ---
-# Website
+# McCann Lab's Website
 
 --
 
-- Github : code sharing / tutorials
-- Slack : direct chat
-- Twitter to promote
-- current website : https://www.mccannlab.org/
+- **Github** : code sharing / tutorials
+- **Slack**: direct chat
+- **Twitter**: to promote our work
+- **Current website**: https://www.mccannlab.org/
 
 <br>
 
