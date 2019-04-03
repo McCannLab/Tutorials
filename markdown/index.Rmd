@@ -158,6 +158,12 @@ This gus is \textbf{relentless}
 
 > "A strongly defined, highly compatible specification of Markdown."
 
+
+---
+class: inverse, center, middle
+
+# What for?
+
 ---
 # Markdown is everywhere
 <br>
@@ -222,4 +228,4 @@ This gus is \textbf{relentless}
   - clone content of the former website
   - have a section 'lab meeting'
   - a shared agenda
-  - ... 
+  - ...
