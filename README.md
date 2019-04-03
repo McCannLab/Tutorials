@@ -1,6 +1,6 @@
-# Tutorials
+# McCann Lab's Tutorials
 
 
-### [Orcid](https://mccannlab.github.io/Tutorials/orcid)
+### [Orcid](https://mccannlab.github.io/Tutorials/orcid) :hourglass: 5min
 
-### [Orcid](https://mccannlab.github.io/Tutorials/markdown)
+### [Markdown](https://mccannlab.github.io/Tutorials/markdown) :hourglass: 25min
