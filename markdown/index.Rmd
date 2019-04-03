@@ -180,7 +180,7 @@ class: inverse, center, middle
 - [Rmarkdown](https://rmarkdown.rstudio.com/)
 
 ---
-# Github
+# GitHub
 
 ![](img/github.png)
 
@@ -188,11 +188,14 @@ class: inverse, center, middle
 # markdown-here
 <br>
 
-## <i class="fa fa-video-camera" aria-hidden="true"></i> Live example
+<video width="100%" controls>
+ <source src="img/markdown_here.webm" type="video/webm">
+ Your browser does not support the video tag.
+</video>
 
 
 ---
-# Rmarkdown
+# R Markdown
 
 <video width="100%" controls>
  <source src="img/RStudio1.webm" type="video/webm">
