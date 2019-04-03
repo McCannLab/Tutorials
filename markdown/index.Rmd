@@ -76,11 +76,11 @@ class: inverse, center, middle
 --
 
 ```html
-This gus is <tag_bold>relentless<tag_bold>
+This guy is <tag_bold>relentless<tag_bold>
 ```
 
 ```latex
-This gus is \textbf{relentless}
+This guy is \textbf{relentless}
 ```
 
 
@@ -147,7 +147,7 @@ This gus is \textbf{relentless}
 
 
 - [GitHub Flavored Markdown (GFM)](https://help.github.com/articles/github-flavored-markdown/)
-- [Pandoc Markdown](http://pandoc.org/README.HTML#pandocs-markdown)
+- [Pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown)
 - [Kramdown](http://kramdown.gettalong.org/syntax.HTML#math-blocks)
 - [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)
 - [MultiMarkdow](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#math-support)
